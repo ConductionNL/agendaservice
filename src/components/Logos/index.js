@@ -1,8 +1,8 @@
 import React from 'react'
 import { StyledContainer } from './index.styles.js'
 
-import conduction from 'images/conduction.png'
-import conduction2 from 'images/conduction_logo_blauw.png'
+import conduction from './images/conduction.png'
+import conduction2 from './images/conduction_logo_blauw.png'
 
 
 
